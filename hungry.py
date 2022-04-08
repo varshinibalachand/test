@@ -2,9 +2,7 @@ hungry=input("do you feel hungry?")
 if hungry=="yes":
     print("eat pizza")
     print("eat sandwich")
+    print("eat fries")
 else:
-    thirsty=input("do you feel thirsty?")
-    if thirsty=="yes":
-        print("Drink some juice")
-        print("drink soda")
+   print("do your homework")
 
